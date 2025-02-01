@@ -26,8 +26,16 @@
 
 ### 🐾 Stats Shrine  
 
-<img src="https://github-readme-stats.vercel.app/api?username=SYN606&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="border-radius: 15px; width: 100%;">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYN606&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 15px; width: 100%;">  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SYN606&show_icons=true&theme=tokyonight&hide_border=true&card_width=300" alt="GitHub Stats" style="border-radius: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYN606&layout=compact&theme=tokyonight&hide_border=true&card_width=300" alt="Top Languages" style="border-radius: 15px;">
+</p>
+
+### 📈 Commit Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SYN606&theme=tokyo-night&hide_border=true" alt="Commit Graph" style="border-radius: 15px;">
+</p>
 
 ---
 
