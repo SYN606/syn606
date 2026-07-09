@@ -1,113 +1,120 @@
-<h1 align="center">SYN606</h1>
+<h1 align="left">SYN606</h1>
 
-<p align="left">
+<p>
   <a href="https://github.com/SYN606">
-    <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=flat-square&logo=github&logoColor=cdd6f4">
   </a>
-  <a href="https://syn606.vercel.app">
-    <img src="https://img.shields.io/badge/website-111111?style=flat-square&logo=firefox&logoColor=white" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=BBBBBB&width=700&lines=Cybersecurity+Researcher;Red+%26+Blue+Team+Operations;Linux+%7C+Networking+%7C+Automation" />
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SYN606&style=flat-square&color=555555" />
-  <img src="https://img.shields.io/github/followers/SYN606?label=followers&style=flat-square&color=555555" />
-</p>
 
-```bash                   
-
-             xx=            ..           :✷x             
-            x✷         ==#**##*==-:.       x✷            
-           x✷.       -=#%%%%##*#+=-:.      :✷xx          
-          x✷✷.      -=*#%%%#%%##*+-::.      ✷:xx         
-        ✷x✷x✷       -+#%%%%#%%#***-..      .✷. x.        
-      ✷✷✷✷:✷✷x    -+#*%%%#*###++-- ..     ✷ .xxxx      
-     xx  .  ✷✷x     .=*%%%#####+++-..      :✷ .  .xxx    
-   xxx .xx  .✷x    .+│☚☚☚+#++#☛☛☛=   :    ✷✷ :x:...xx.  
-  xx.    xx  -x✷✷  .=✷✷☚☚***%◄☛☛.. - .  ✷✷x  :x::.:.xx  
-  ✷= . . .☛.  :xx✷  .-=*::+*: .:..- .✷✷✷✷✷.  .+x-=.:-:xx 
-  ✷: . ✷..☛☛.. .:✷✷xxxx=#+%*=-.==: ✷✷✷✷✷✷ xx..=x=.x.:.-x 
- x✷ ..-✷x: ☛☛x.   ✷✷✷xx+####==::. ..       xx .x::xx:--xx
-x✷-...-✷x:...x... -+==:+####==:. ..:.      .✷✷ x-:+x:-.=x
-x✷ .. :✷✷:. ..--**+*--+=#*#+#=: .-. .::.... .✷xx::xx--.=x
-✷. ... ✷✷.. -+:=xxx===*=+%%*+-. :. xxxxxxxx.. ✷✷x:x :-:✷x
-xx ..:.✷✷  .++xxx::-:*=-*%*+-- .. :x▼▼▼x: ..   ✷xxx..-x✷x
- ✷✷..:. ✷  :=xx.**+=-.:-*##=:: . .:▼▼▼▼▼x-.: .   xx..:x✷ 
-  ✷ .:. ✷  :xx++:. ..  -#*=::.xx..-=▼▼▼xx...:     xx..x✷ 
-  xx  .✷✷  :x-+: .  .  *xx-::..xx. :-.xx..:...     x.x✷  
-    xx.✷    xx-... : .-xx=-..  .xx.      . .-      x:✷✷  
-     x✷x     xx.   ..+xx:.:.    .xx      .        ..✷✷   
-      ✷✷       .....xx=::..      :x.   .         xxx✷    
-       ✷         +xxx:.:     .    x:   :xx       x       
-              =*x=:.:..      x    x+.  ...xx-.           
-            -xxxx..       . :x:   x..:    :xxx.          
-           =xx.    .. . :.  xx    x=:   .  .. x          
-           .xx   .-...:   .-x:.  xx.:  .:.  .=xx         
-           :x.   :-  x-.  :xx.  xx..   . :  .:-x         
-            xxxx .xxxx:. =xx  -xx. .       .:xxx         
-            . .xxxx::. ..:.        .    .-xxxx           
-               .           xxxxx    ..xxxxx.             
-                   . xxxxxxx.x--.xxxxx:.                 
-                +-.xx      xx:.      ..                  
-                -:. . .:  xx-        .                   
-                     . .xxx..   .                        
-                                     
-```
-## Hacking Stack
-
-```perl
-#--> recon
-wireshark
-maltego
-
-#--> web
-burp-suite
-
-#--> systems
-linux (arch / debian)
-bash | zsh | fish
-
-#--> automation
-git
-docker
-kubernetes
-```
----
-
-## Selected Projects
-
-- **EchoNet**  
-  Python-based phishing framework focused on automation and modular design  
-  https://github.com/SYN606/EchoNet
-
-- **SynthArch**  
-  Arch Linux dotfiles for penetration testing and security research workflows  
-  https://github.com/SYN606/syntharch-dotfiles
-
----
-
-## Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SYN606&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="420"/>
-</p>
-
----
-
-## Contact
-
-<p align="left">
-  <a href="https://github.com/SYN606">
-    <img src="https://img.shields.io/badge/github-SYN606-1b1b1b?style=flat-square&logo=github&logoColor=white" />
-  </a>
   <a href="https://syn606.pages.dev">
-    <img src="https://img.shields.io/badge/website-syn606.pages.dev-0d1b2a?style=flat-square&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-cba6f7?style=flat-square&logo=firefox-browser&logoColor=1e1e2e">
   </a>
+
+  <img src="https://komarev.com/ghpvc/?username=SYN606&style=flat-square&color=cba6f7">
+
+  <img src="https://img.shields.io/github/followers/SYN606?style=flat-square&color=89b4fa">
+</p>
+
+<p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=CBA6F7&width=850&lines=Systems+Programming+%2F%2F+Security+Research;Kernel+Internals+%7C+Linux+Architecture;Reverse+Engineering+%7C+Binary+Analysis;Linux+%7C+Networking+%7C+Infrastructure;Building+Fast,+Secure+and+Minimal+Software"/> </p>
+
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                         SYSTEM INITIALIZATION                                │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ OPERATOR      : SYN606                                                       │
+│ STATUS        : ONLINE                                                       │
+│ HOSTNAME      : syn606                                                       │
+│ PLATFORM      : Linux                                                        │
+│ SHELL         : fish                                                         │
+│ EDITOR        : Neovim                                                       │
+│ LANGUAGES     : Python • Rust • Go • C • JavaScript                          │
+│ INTERESTS     : Systems • Security • Networking • Reverse Engineering        │
+│ FOCUS         : Secure Infrastructure & Low-Level Development                │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ~/about
+
+```yaml
+
+currently:
+  - Building security tooling
+  - Learning kernel internals
+  - Reverse engineering binaries
+  - Exploring operating system architecture
+
+interests:
+  - Linux
+  - Offensive Security
+  - Infrastructure
+  - Automation
+  - Networking
+  - Malware Analysis
+  - Memory Forensics
+  - Containers
+  - Virtualization
+
+philosophy:
+  - Minimalism
+  - Performance
+  - Security First
+```
+
+---
+
+## Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,rust,go,c,cpp,js,ts,bash,linux,git,docker,kubernetes,postgres,redis,nginx,fastapi,nodejs,react,vite,cloudflare,githubactions,vscode,neovim&perline=12"/>
+
 </p>
 
 ---
 
-> "Security is not a product, but a process."  
-> — Bruce Schneier
+## Current Projects
+
+```text
+[ ACTIVE ]
+
+> Discord Infrastructure
+  ├── Moderation Framework
+  ├── Dashboard
+  ├── API Services
+  └── Automation
+
+> Linux Security
+  ├── Kernel Research
+  ├── Hardening
+  ├── Networking
+  └── Performance
+
+> Development
+  ├── System Utilities
+  ├── CLI Tools
+  ├── Open Source
+  └── Web Infrastructure
+```
+
+---
+
+## GitHub Stats
+
+<!-- Contribution Activity Graph -->
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SYN606&theme=github_dark&utcOffset=5.5" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SYN606&theme=github_dark" />
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SYN606&theme=github-dark&hide_border=true&bg_color=00000000" />
+</p>
+
+---
