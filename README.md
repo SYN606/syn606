@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=flat-square&logo=github&logoColor=cdd6f4">
   </a>
 
-  <a href="https://syn606.pages.dev">
+  <a href="https://syn606.wtf/">
     <img src="https://img.shields.io/badge/Portfolio-cba6f7?style=flat-square&logo=firefox-browser&logoColor=1e1e2e">
   </a>
 
