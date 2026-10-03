@@ -1,21 +1,21 @@
 <h1 align="left">SYN606</h1>
 
-<p>
+<p align="left">
   <a href="https://github.com/SYN606">
-    <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=flat-square&logo=github&logoColor=cdd6f4">
+    <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=flat-square&logo=github&logoColor=cdd6f4" alt="GitHub">
   </a>
-
   <a href="https://syn606.wtf/">
-    <img src="https://img.shields.io/badge/Portfolio-cba6f7?style=flat-square&logo=firefox-browser&logoColor=1e1e2e">
+    <img src="https://img.shields.io/badge/Portfolio-cba6f7?style=flat-square&logo=firefox-browser&logoColor=1e1e2e" alt="Portfolio">
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=SYN606&style=flat-square&color=cba6f7">
-
-  <img src="https://img.shields.io/github/followers/SYN606?style=flat-square&color=89b4fa">
+  <img src="https://komarev.com/ghpvc/?username=SYN606&style=flat-square&color=cba6f7" alt="Profile Views">
+  <a href="https://github.com/SYN606?tab=followers">
+    <img src="https://img.shields.io/github/followers/SYN606?style=flat-square&color=89b4fa" alt="Followers">
+  </a>
 </p>
 
-<p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=CBA6F7&width=850&lines=Systems+Programming+%2F%2F+Security+Research;Kernel+Internals+%7C+Linux+Architecture;Reverse+Engineering+%7C+Binary+Analysis;Linux+%7C+Networking+%7C+Infrastructure;Building+Fast,+Secure+and+Minimal+Software"/> </p>
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=CBA6F7&width=850&lines=Systems+Programming+%2F%2F+Security+Research;Kernel+Internals+%7C+Linux+Architecture;Reverse+Engineering+%7C+Binary+Analysis;Linux+%7C+Networking+%7C+Infrastructure;Building+Fast,+Secure+and+Minimal+Software" alt="Typing SVG"/>
+</p>
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
@@ -38,7 +38,6 @@
 ## ~/about
 
 ```yaml
-
 currently:
   - Building security tooling
   - Learning kernel internals
@@ -66,10 +65,8 @@ philosophy:
 
 ## Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,rust,go,c,cpp,js,ts,bash,linux,git,docker,kubernetes,postgres,redis,nginx,fastapi,nodejs,react,vite,cloudflare,githubactions,vscode,neovim&perline=12"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,rust,go,c,cpp,js,ts,bash,linux,git,docker,kubernetes,postgres,redis,nginx,fastapi,nodejs,react,vite,cloudflare,githubactions,vscode,neovim&perline=12" alt="Tech Stack"/>
 </p>
 
 ---
@@ -102,11 +99,9 @@ philosophy:
 
 ## GitHub Stats
 
-<!-- Contribution Activity Graph -->
-
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SYN606&theme=github_dark&utcOffset=5.5" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SYN606&theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SYN606&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYN606&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </p>
 
 ---
@@ -114,7 +109,7 @@ philosophy:
 ## Activity Graph
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SYN606&theme=github-dark&hide_border=true&bg_color=00000000" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SYN606&bg_color=00000000&color=cdd6f4&line=cba6f7&point=89b4fa&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
 </p>
 
 ---
