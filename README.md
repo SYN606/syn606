@@ -106,10 +106,10 @@ philosophy:
 
 ---
 
-## Activity Graph
+## Contribution Streak
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SYN606&bg_color=00000000&color=cdd6f4&line=cba6f7&point=89b4fa&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SYN606&theme=catppuccin_mocha&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 ---
